@@ -1,4 +1,4 @@
-# react-form-basic
+# Basic React Form
 Basic React Form with Bootstrap Styling
 
 ## References
