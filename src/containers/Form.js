@@ -42,7 +42,7 @@ class Form extends Component {
                 options: [
                     { value: '', displayValue: 'Choose a Province or Territory', disabled: true },
                     { value: 'AB', displayValue: 'Alberta' },
-                    { value: 'BC', displayValue: 'Britsh Columbia' },
+                    { value: 'BC', displayValue: 'British Columbia' },
                     { value: 'MB', displayValue: 'Manitoba' },
                     { value: 'NB', displayValue: 'New Brunswick' },
                     { value: 'NL', displayValue: 'Newfoundland and Labrador' },
